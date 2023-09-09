@@ -4,4 +4,8 @@
 
 ### Динамическое программирование
 
- - [2707. Extra Characters in a String](/2707_Extra_Characters_in_a_String/)
+- [2707. Extra Characters in a String](/2707_Extra_Characters_in_a_String/)
+
+### Бэктрекинг
+
+- [37. Sudoku Solver](/37_Sudoku_Solver/)
