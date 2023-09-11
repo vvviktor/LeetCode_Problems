@@ -19,3 +19,4 @@
 ### Бинарный поиск
 
 - [1011. Capacity To Ship Packages Within D Days](/1011_Capacity_To_Ship_Packages_Within_D_Days/)
+- [1552. Magnetic Force Between Two Balls](/1552_Magnetic_Force_Between_Two_Balls/)
