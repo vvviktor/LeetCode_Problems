@@ -15,3 +15,7 @@
 ### Битовые манипуляции
 
 - [401. Binary Watch](/401_Binary_Watch/)
+
+### Бинарный поиск
+
+- [1011. Capacity To Ship Packages Within D Days](/1011_Capacity_To_Ship_Packages_Within_D_Days/)
