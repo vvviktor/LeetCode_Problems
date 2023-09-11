@@ -6,6 +6,7 @@
 
 - [97. Interleaving String](/97_Interleaving_String/)
 - [300. Longest Increasing Subsequence](/300_Longest_Increasing_Subsequence/)
+- [354. Russian Doll Envelopes](/354_Russian_Doll_Envelopes/)
 - [2707. Extra Characters in a String](/2707_Extra_Characters_in_a_String/)
 
 ### Бэктрекинг
