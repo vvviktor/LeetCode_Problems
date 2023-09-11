@@ -10,8 +10,8 @@
 ### Бэктрекинг
 
 - [37. Sudoku Solver](/37_Sudoku_Solver/)
-- [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
+- [401. Binary Watch](/401_Binary_Watch/)
 
 ### Битовые манипуляции
 
-- [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/)
+- [401. Binary Watch](/401_Binary_Watch/)
