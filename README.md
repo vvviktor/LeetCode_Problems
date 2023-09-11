@@ -5,6 +5,7 @@
 ### Динамическое программирование
 
 - [97. Interleaving String](/97_Interleaving_String/)
+- [300. Longest Increasing Subsequence](/300_Longest_Increasing_Subsequence/)
 - [2707. Extra Characters in a String](/2707_Extra_Characters_in_a_String/)
 
 ### Бэктрекинг
