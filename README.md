@@ -22,3 +22,7 @@
 
 - [1011. Capacity To Ship Packages Within D Days](/1011_Capacity_To_Ship_Packages_Within_D_Days/)
 - [1552. Magnetic Force Between Two Balls](/1552_Magnetic_Force_Between_Two_Balls/)
+
+### Жадные алгоритмы
+
+- [1647. Minimum Deletions to Make Character Frequencies Unique](/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/)
