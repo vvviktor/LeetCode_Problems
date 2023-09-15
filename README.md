@@ -25,5 +25,10 @@
 
 ### Жадные алгоритмы
 
+- [332. Reconstruct Itinerary](/332_Reconstruct_Itinerary/)
 - [1326. Minimum Number of Taps to Open to Water a Garden](/1326_Minimum_Number_of_Taps_to_Open_to_Water_a_Garden/)
 - [1647. Minimum Deletions to Make Character Frequencies Unique](/1647_Minimum_Deletions_to_Make_Character_Frequencies_Unique/)
+
+### Графы
+
+- [332. Reconstruct Itinerary](/332_Reconstruct_Itinerary/)
