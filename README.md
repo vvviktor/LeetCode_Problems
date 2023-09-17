@@ -32,3 +32,4 @@
 ### Графы
 
 - [332. Reconstruct Itinerary](/332_Reconstruct_Itinerary/)
+- [1584. Min Cost to Connect All Points](/1584_Min_Cost_to_Connect_All_Points/)
