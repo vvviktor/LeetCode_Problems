@@ -1,5 +1,7 @@
 ## Решение задачи [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+Здесь опишу один из трудных для понимания алгоритмов своими словами с использованием своих иллюстраций.
+
 Нам даны два отсортированных по неубыванию массива целых чисел размеров `n` и `m` соответственно. Требуется найти ***медиану*** двух массивов. Авторы просят сделать это за O(log^2(n + m)) временной сложности. 
 
 ![](https://github.com/vvviktor/LeetCode_Problems/blob/main/4_Median_of_Two_Sorted_Arrays/Img/Case_B/1b.jpg)
